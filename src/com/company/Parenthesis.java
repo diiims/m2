@@ -22,6 +22,7 @@ public class Parenthesis {
            // J++;
             s=s+")";
             par(n,L,++J,s);
+            
         }
 
     }
